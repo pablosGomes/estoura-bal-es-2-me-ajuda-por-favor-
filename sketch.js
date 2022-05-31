@@ -48,7 +48,7 @@ function setup() {
 
   
 }
-
+//me ajuda eu não sei oque ta acontecendo não ta funcionado o mouse e mais nada 
 function draw() {
  background(0);
 //Adicione a condição para gameState = PLAY
